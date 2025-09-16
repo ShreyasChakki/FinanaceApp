@@ -1,0 +1,55 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build files
+/dist
+/build
+/public/css/output.css
+
+# Debug logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Testing
+/coverage
+.nyc_output
+
+# Editor directories and files
+.idea
+.vscode
+*.swp
+*.swo
+.DS_Store
+
+# OS specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Optional: Database dumps
+*.dump
+*.sql
+
+# Optional: Temporary files
+temp/
+tmp/
+.cache/
